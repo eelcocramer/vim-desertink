@@ -308,7 +308,7 @@ if has("gui_running") || &t_Co >= 88
   "call <SID>X("VertSplit", "c2bfa5", "7f7f7f", "reverse")
   highlight! link VertSplit LineNr
 
-  call <SID>X("LineNr", "3e3e3e", "080808", "", "239")
+  call <SID>X("LineNr", "838383", "080808", "", "239")
   "call <SID>X("CursorLineNr", "aaaaaa", "080808", "", "253")
   highlight! link CursorLineNr CursorLine
 
